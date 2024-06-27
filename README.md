@@ -1,6 +1,7 @@
+![](https://komarev.com/ghpvc/?username=foylaou&style=flat-square)
 <h1 align="center">Hi 👋, I'm Foy</h1>
 <h3 align="center">A passionate full-stack developer from Taiwan</h3>
-![](https://komarev.com/ghpvc/?username=foylaou)
+
 - 🔭 I’m currently working on **ISHA**
 
 - 🌱 I’m currently learning **react native**
