@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/foylaou?tab=repositories](https://github.com/foylaou?tab=repositories)
 
-- 💬 Ask me about **C# Dotnet framework、Dotnet Core、Python**
-
 - 📫 How to reach me **s225002731@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
