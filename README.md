@@ -17,3 +17,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,cs,cloudflare,dart,discord,docker,dotnet,fastapi,flask,flutter,gcp,github,go,jquery,mysql,nginx,obsidian,opencv,postgres,postman,powershell,pycharm,py,pytorch,react,redis,rider,sklearn,tensorflow,ubuntu,windows)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
