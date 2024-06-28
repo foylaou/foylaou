@@ -11,8 +11,16 @@
 - 📫 How to reach me **s225002731@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,cs,cloudflare,dart,discord,docker,dotnet,fastapi,flask,flutter,gcp,github,go,jquery,mysql,nginx,obsidian,opencv,postgres,postman,powershell,pycharm,py,pytorch,react,redis,rider,sklearn,tensorflow,ubuntu,windows)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dart,go,py)
+<h3 align="left">Tools:</h3>
+
+![My Skills](https://skillicons.dev/icons?i=anaconda,cloudflare,discord,docker,dotnet,fastapi,flask,flutter,gcp,github,jquery,mysql,nginx,obsidian,opencv,postgres,postman,powershell,pycharm,pytorch,react,redis,rider,sklearn,tensorflow)
+
+<h3 align="left">OS:</h3>
+
+![My Skills](https://skillicons.dev/icons?i=ubuntu,windows)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
