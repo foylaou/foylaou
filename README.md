@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Languages:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dart,go,py)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,dart,go,py,cshape)
 <h3 align="left">Tools:</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=anaconda,pycharm,pytorch,fastapi,flask,opencv,sklearn,tensorflow,cloudflare,discord,docker,dotnet,flutter,gcp,github,jquery,nginx,obsidian,postman,powershell,react,rider,redis,mysql,postgres)
