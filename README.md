@@ -16,7 +16,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,dart,go,py,cshape)
 <h3 align="left">Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=anaconda,pycharm,pytorch,fastapi,flask,opencv,sklearn,tensorflow,cloudflare,discord,docker,dotnet,flutter,gcp,github,jquery,nginx,obsidian,postman,powershell,react,nextjs,vercel,webstorm,rider,redis,mysql,postgres,react)
+![My Skills](https://skillicons.dev/icons?i=anaconda,pycharm,pytorch,fastapi,flask,opencv,sklearn,tensorflow,cloudflare,discord,docker,dotnet,flutter,gcp,github,jquery,nginx,obsidian,postman,powershell,react,nextjs,vercel,webstorm,rider,redis,mysql,postgres)
 
 <h3 align="left">OS:</h3>
 
