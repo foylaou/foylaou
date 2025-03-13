@@ -20,7 +20,7 @@
 
 <h3 align="left">OS:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=ubuntu,windows)
+![My Skills](https://skillicons.dev/icons?i=ubuntu,windows,apple)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
