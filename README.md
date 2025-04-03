@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ISHA**
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/foylaou?tab=repositories](https://github.com/foylaou?tab=repositories)
 
