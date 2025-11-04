@@ -24,4 +24,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Contributions](https://raw.githubusercontent.com/foylaou/foylaou/refs/heads/output/github-contribution-grid-snake.svg)]
