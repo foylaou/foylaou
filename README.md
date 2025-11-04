@@ -22,8 +22,20 @@
 
 ![My Skills](https://skillicons.dev/icons?i=ubuntu,windows,apple)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats - 自動適應主題 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=foylaou&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=foylaou&show_icons=true&theme=default&hide_border=true">
+  <img alt="foylaou's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=foylaou&show_icons=true&theme=default">
+</picture>
+
+<!-- Top Languages - 自動適應主題 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=foylaou&layout=compact&theme=dark&hide_border=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=foylaou&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foylaou&layout=compact&theme=default">
+</picture>
+
 <br>
 <!-- 自動適應主題 -->
 <picture>
