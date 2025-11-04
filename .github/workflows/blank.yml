@@ -1,17 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # 每天 00:00 UTC 執行
   schedule:
-    - cron: "0 0 * * *"
-  
-  # 允許手動觸發
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-  
-  # 當推送到 main 分支時執行
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -32,7 +24,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
