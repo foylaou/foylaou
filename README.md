@@ -25,10 +25,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-## 📊 GitHub 貢獻蛇形圖
-
-![Snake animation](https://raw.githubusercontent.com/foylaou/foylaou/output/github-snake.svg)
-
-<!-- 深色模式版本 -->
-![Snake animation dark](https://raw.githubusercontent.com/foylaou/foylaou/output/github-snake-dark.svg#gh-dark-mode-only)
-![Snake animation light](https://raw.githubusercontent.com/foylaou/foylaou/output/github-snake.svg#gh-light-mode-only)
+<!-- 自動適應主題 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/foylaou/foylaou/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/foylaou/foylaou/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/foylaou/foylaou/output/github-snake.svg">
+</picture>
