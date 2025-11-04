@@ -25,4 +25,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foylaou)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Contributions](https://raw.githubusercontent.com/foylaou/foylaou/refs/heads/output/github-contribution-grid-snake.svg)]
+## 📊 GitHub 貢獻蛇形圖
+
+![Snake animation](https://raw.githubusercontent.com/foylaou/foylaou/output/github-snake.svg)
+
+<!-- 深色模式版本 -->
+![Snake animation dark](https://raw.githubusercontent.com/foylaou/foylaou/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation light](https://raw.githubusercontent.com/foylaou/foylaou/output/github-snake.svg#gh-light-mode-only)
