@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Foy</h1>
 <h3 align="center">A passionate full-stack developer from Taiwan</h3>
 
-- 🔭 I’m currently working on **ISHA**
-
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/foylaou?tab=repositories](https://github.com/foylaou?tab=repositories)
 
 - 📫 How to reach me **s225002731@gmail.com**
