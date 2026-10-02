@@ -1,0 +1,1 @@
+var e=`/foylaou/avatar.png`;export{e as t};

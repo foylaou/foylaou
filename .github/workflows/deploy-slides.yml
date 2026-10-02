@@ -1,0 +1,45 @@
+name: Deploy Slides to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "foy/**"
+      - ".github/workflows/deploy-slides.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: foy
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: foy/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      # predeploy builds with --base /foylaou/, then gh-pages pushes dist to the gh-pages branch
+      - name: Deploy with gh-pages
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          npm run deploy -- -r "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
