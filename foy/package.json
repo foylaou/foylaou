@@ -5,12 +5,17 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "predeploy": "slidev build --base /foylaou/",
+    "deploy": "gh-pages -d dist --nojekyll"
   },
   "dependencies": {
     "@slidev/cli": "^53.0.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "vue": "^3.5.33"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
